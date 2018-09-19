@@ -6,7 +6,8 @@ Take a look at `hack the designer look.pdf` to overview the project.
 ## Repo structure
 
  - `flask`: Contains code for flask app building.
- - `notebook`: Contains jupyter notebooks used for data collection and model building
+ - `notebooks`: jupyter notebook files used for data collection and model building
+ - `models`: Trained model weights and architecture files.
 
 ### Python Environment
 Python code in this repo utilizes packages that are not part of the common library. To make sure you have all of the 
