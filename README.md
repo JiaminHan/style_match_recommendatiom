@@ -1,7 +1,8 @@
 # Hack a designer look
 My final project in Metis.  A pipline to build a recommendation system to help shopper find similar but cheaper products for a designer look.
 
-Take a look at `hack the designer look.pdf` to overview the project.
+Take a look at `hack the designer look.pdf` to overview the project. For more detailed information, here's the [blog post](https://medium.com/@jiaminhan/hack-a-designer-look-buy-using-convolutional-neural-networks-e6bd631b1351).
+
 
 ## Repo structure
 
